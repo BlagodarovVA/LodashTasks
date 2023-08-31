@@ -1,4 +1,5 @@
 import _ from 'lodash';
+
 let users = [
 	{
 		id: 1,
