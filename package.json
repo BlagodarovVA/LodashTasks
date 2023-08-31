@@ -2,7 +2,7 @@
 	"name": "lodash",
 	"version": "1.0.0",
 	"description": "Разбираемся в возможностях лодаша",
-	"main": "_lodash.js",
+	"main": "./src/_lodash.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
