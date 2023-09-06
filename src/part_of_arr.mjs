@@ -1,26 +1,5 @@
 import _ from 'lodash';
 
-let users = [
-	{
-		id: 1,
-		name: 'Valery',
-		isActive: true,
-		age: 32,
-	},
-	{
-		id: 2,
-		name: 'Diana',
-		isActive: true,
-		age: 26,
-	},
-	{
-		id: 3,
-		name: 'Vasya',
-		isActive: false,
-		age: 2,
-	},
-];
-
 let num = [1, 2, 3];
 
 let res = _.chain(num).head().value();
